@@ -1,0 +1,6 @@
+{
+  "name": "Jan Tar Runner: The Protest Escape",
+  "description": "A high-octane 3D endless runner set around Jantar Mantar and New Delhi streets where a young peaceful protester outruns police barricades, vehicles, and obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
